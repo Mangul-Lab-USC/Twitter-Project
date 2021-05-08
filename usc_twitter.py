@@ -1,5 +1,5 @@
-#Aditya Sarkar
-#Data Preprocessing of PubMed Data
+#Initial Data Preprocessing of PubMed Data
+#by Aditya Sarkar
 import pandas as pd
 
 file1 = open('drive/MyDrive/out.txt', 'r') 
